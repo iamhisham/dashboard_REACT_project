@@ -1,6 +1,6 @@
 # dashboard_REACT_project
 
-step 1: go to task1 and install
+step 1: go to task1 
 (cd task1)
 
 ///dashboard_REACT_project\react_file\task1>
