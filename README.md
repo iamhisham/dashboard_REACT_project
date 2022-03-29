@@ -7,6 +7,8 @@ step 1: go to task1
 
 
 step 2:
+insatll all in terminal
+
 // npm install bootstrap
 // npm install recharts
 // npm install --save react-circular-progressbar
